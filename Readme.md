@@ -25,8 +25,8 @@ Ce tool te permet de **supprimer automatiquement tous tes messages** dans une co
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/tonpseudo/nom-du-repo.git
-cd nom-du-repo
+git clone https://github.com/ZXK-fr/delete-message-discord.git
+cd msg-delete
 ```
 
 ### 2. Installer les dépendances
