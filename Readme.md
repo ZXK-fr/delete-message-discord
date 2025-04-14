@@ -1,7 +1,3 @@
-parfait ! voilà ton `README.md` en **version preview** stylisée comme il apparaîtra sur GitHub, avec tous les emojis, les titres, le code et la mise en page propre :
-
----
-
 # 🧹 Discord Message Cleaner by zxk
 
 > ⚠️ Ce script a été **entièrement développé par zxk**. Merci de respecter le travail fourni. Toute modification non autorisée ou republication sous un autre nom est **strictement interdite**.
