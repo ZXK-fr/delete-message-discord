@@ -77,7 +77,7 @@ pip install requests colorama pystyle
 
 **Développé avec 🔥 par zxk**
 
-- Discord : [`zxk_no_ban`](https://discord.com/users/zxk_no_ban)  
+- Discord : [`random2discord`](https://discord.com/users/random2_dscrd)  
 - Aucune modification ou diffusion n’est autorisée sans mon accord.
 
 ---
