@@ -10,6 +10,12 @@ Ce tool te permet de **supprimer automatiquement tous tes messages** dans une co
 
 ---
 
+# 📸 Apercu du message-delete (interface)
+
+![Apercu](main.png)
+
+---
+
 ## ⚙️ Fonctionnalités
 
 - Suppression de **100 % de tes messages** dans un salon ou DM  
@@ -57,12 +63,6 @@ Tu peux aussi les installer directement avec :
 ```bash
 pip install requests colorama pystyle
 ```
-
----
-
-# 📸 Apercu du message-delete (interface)
-
-![Apercu](main.png)
 
 ---
 
