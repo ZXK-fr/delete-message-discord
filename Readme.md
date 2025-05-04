@@ -60,9 +60,9 @@ pip install requests colorama pystyle
 
 ---
 
-## 📸 Aperçu terminal
+# 📸 Apercu du message-delete (interface)
 
-![aperçu du terminal](main.png)
+![Apercu](main.png)
 
 ---
 
